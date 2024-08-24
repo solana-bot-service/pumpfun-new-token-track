@@ -1,24 +1,5 @@
-# README
+# solana-token-tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+app to track new tokens on Solana, built before pump.fun lol
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+kind of pointless now, but some of the code may be useful down the road, so I'll leave this up
